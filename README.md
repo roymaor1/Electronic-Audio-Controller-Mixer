@@ -5,3 +5,4 @@ Features:
 - control play speeds
 - add special audio effects
 - record yourself over a song
+Implemented in VHDL.
